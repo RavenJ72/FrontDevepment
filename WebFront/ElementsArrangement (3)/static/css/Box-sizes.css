@@ -1,0 +1,19 @@
+.container{
+    margin: 5% auto 0;
+    max-width: 80%;
+}
+
+section{
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+    text-align: center;
+    border: #08c276 dashed;
+}
+
+.box-child-block-text{
+    border: solid #0634c8 5px;
+    padding: 20px 20px;
+}
+
+

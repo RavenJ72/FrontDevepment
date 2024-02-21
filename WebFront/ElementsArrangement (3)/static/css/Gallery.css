@@ -1,0 +1,19 @@
+.container{
+    max-width: 80%;
+    margin: 5% auto 5%;
+}
+
+.gallery img {
+    border: black solid 5px;
+    padding: 10px;
+    width: calc(30% - 30px);
+
+}
+.gallery{
+    margin: 0 auto;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    flex-wrap: wrap
+}
+

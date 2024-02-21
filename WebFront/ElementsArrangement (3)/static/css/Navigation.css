@@ -1,0 +1,34 @@
+.container{
+    margin: 5% auto 5%;
+    width: 80%;
+}
+
+.header-container .site-title, nav{
+    display: inline-block;
+    text-align: center;
+
+}
+
+.header-container  nav a{
+    text-decoration: none;
+    color: #92b68b;
+    margin-left: 15px;
+}
+
+.header-container  nav{
+    margin-left: 10%;
+}
+
+
+.header-container{
+    border-bottom: solid black 2px;
+}
+
+
+
+
+
+
+
+
+

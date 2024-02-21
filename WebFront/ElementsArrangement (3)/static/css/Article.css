@@ -1,0 +1,17 @@
+.container{
+    margin: 5% auto 5%;
+    max-width: 60%;
+}
+
+article{
+    color: rgb(50,50,50);
+}
+
+body{
+    background-color: rgb(237,237,237);
+}
+
+.article-image{
+    width: 50%;
+
+}
