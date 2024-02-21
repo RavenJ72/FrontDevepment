@@ -1,0 +1,55 @@
+
+.container{
+    margin: 5% auto 0;
+    width: 80%;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead th {
+    text-align: left;
+}
+
+/* нечетные */
+tbody tr:nth-child(odd) {
+    background-color:  rgb(240, 240, 240);
+}
+
+/* четные */
+tbody tr:nth-child(even) {
+    background-color: white;
+}
+
+thead th{
+    background-color: #cccccc;
+}
+
+table tbody tr,td,table{
+    border: solid 1px rgb(222, 222, 222);
+}
+
+table td, th {
+    padding: 10px;
+    font-size: 20px;
+}
+
+table tbody tr:hover{
+    background-color: rgb(0,0,0);
+    color: rgb(255, 255, 255);
+}
+
+table tbody tr:hover td{
+    border: solid 1px black;
+}
+
+
+
+
+
+
+
+
+
